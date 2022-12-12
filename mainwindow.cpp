@@ -8,6 +8,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
     cout<<"第二个版本";
     cout<<"第三个版本";
+    cout<<"222.12.12.16:50";
 }
 
 MainWindow::~MainWindow()
