@@ -7,7 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     cout<<"第二个版本";
-
+    cout<<"第三个版本";
 }
 
 MainWindow::~MainWindow()
